@@ -69,7 +69,7 @@ A multi-agent financial decision system combining **FinBERT, LLMs, specialized a
 
 **Tech:** `Python` `PyTorch` `FinBERT` `LLM Agents` `OpenAI API` `Financial APIs`
 
-🔗 [Explore the project](https://github.com/ATHISH-RAJ-MOHAN/Multi-Agent-Financial-Trading-Framework)
+🔗 [Explore the project](https://github.com/ATHISH-RAJ-MOHAN/Multi-Agent-Financial-Trading-Framework/tree/dev)
 
 ---
 
@@ -187,7 +187,7 @@ Teaching has made me a better engineer because explaining a concept clearly ofte
 
 ### 🏛️ Leadership
 
-Serve in **USC Graduate Student Government leadership**, as the **Director of Finance-Internal Approvals** helping manage **$1M+ in financial workflows** supporting USC's graduate student community. This is one of the 32 e-board positions available across the university including all the colleges to represent the Graduate Student Community to the senior USC leadership.
+Serve in **USC Graduate Student Government leadership**, as the **Director of Finance-Internal Approvals** helping manage **$1M+ in financial workflows** supporting USC's graduate student community. This is one of the only 32 available e-board positions across entire the university to represent the Graduate Student Community to the senior USC leadership.
 
 The role has given me experience making decisions, coordinating across teams, and taking responsibility for processes that affect a large community.
 
@@ -233,8 +233,8 @@ GPA: **8.71 / 10.0**
 - 🧠 [**DeepLearning.AI  -  Deep Learning Specialization**](https://learn.deeplearning.ai/certificates/474b884a-b50c-48a0-97fc-8be22d320457?usp=sharing)
 - 🤖 [**IBM  -  Generative AI Engineering with LLMs Specialization**](https://coursera.org/share/88d198804c442ca91c0abf6639f5b89e)
 - 🔗 [**IBM  -  Agentic AI with LangChain and LangGraph**](https://coursera.org/share/e07f23602c92b2841f11e4afd4148926)
-- ☁️ **Google Cloud  -  Production ML Systems & Introduction to AI/ML**
-- 💻 **IIT Kharagpur  -  Data Structures & Algorithms** · Elite Certificate & Silver Medal
+- ☁️ [**Google Cloud  -  Production ML Systems & Introduction to AI/ML**](https://drive.google.com/drive/folders/1gRYQJN9LBGvOlrgrscj0l5ulNRGT6B4M?usp=sharing)
+- 💻 [**IIT Kharagpur  -  Data Structures & Algorithms**](https://drive.google.com/file/d/1n_oDhAysPia-e1ne3r6UIcE_m0BtYrK5/view?usp=drive_link) · Elite Certificate & Silver Medal
 
 <details>
 <summary><b>Additional Certifications & Training</b></summary>
