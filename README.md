@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./assets/profile.png" width="170" alt="Athish Raj Mohan" />
+  <img src="profile.jpeg" width="170" alt="Athish Raj Mohan" />
 </p>
 
 <h1 align="center">Athish Raj Mohan</h1>
