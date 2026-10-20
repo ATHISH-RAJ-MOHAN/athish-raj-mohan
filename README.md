@@ -36,7 +36,9 @@
 
 I'm a **Software Engineer and MS Applied Data Science candidate at the University of Southern California (USC)**, interested in building intelligent, scalable systems at the intersection of **software engineering, AI/ML, and high-performance computing**.
 
-I've worked across the stack—from developing customer-facing production software and REST API integrations to building AI agents, RAG systems, distributed recommendation engines, and GPU-accelerated applications.
+I'm a **Microsoft Certified: Azure AI Apps and Agents Developer Associate**.
+
+I've worked across the stack - from developing customer-facing production software and REST API integrations to building AI agents, RAG systems, distributed recommendation engines, and GPU-accelerated applications.
 
 Previously, I worked as an **AI/ML Intern at Bio-Rad Laboratories**, where I built and deployed Angular-based analytics dashboards on AWS. Before that, I was an **Associate Software Engineer at Eurofins**, contributing to customer-facing laboratory management software used across **850+ global facilities**.
 
@@ -71,7 +73,7 @@ A multi-agent financial decision system combining **FinBERT, LLMs, specialized a
 
 ---
 
-### 📚 DocChat — Multi-Agent RAG
+### 📚 DocChat  -  Multi-Agent RAG
 
 A multi-agent document intelligence system for **retrieval, reasoning, question answering, and response verification** across large documents.
 
@@ -113,7 +115,7 @@ A scalable recommendation system built on Yelp interaction data using **distribu
 
 **Tech:** `Apache Spark` `Hadoop` `Python` `XGBoost` `MinHash` `LSH`
 
-> Private repository — available upon request.
+> Private repository  -  available upon request.
 
 ---
 
@@ -177,6 +179,18 @@ Previously completed my apprenticeship at Eurofins, where I developed full-stack
 
 Engineering is a big part of my life, but not the whole story.
 
+### 👨‍🏫 Teaching
+
+I'm a Teaching Assistant/Learning Assistant for over **100+ students** in programming in python and technology at USC, supporting hands-on learning, debugging, clarifying doubts, and problem-solving.
+
+Teaching has made me a better engineer because explaining a concept clearly often requires understanding it at a much deeper level.
+
+### 🏛️ Leadership
+
+Serve in **USC Graduate Student Government leadership**, as the **Director of Finance-Internal Approvals** helping manage **$1M+ in financial workflows** supporting USC's graduate student community. This is one of the 32 e-board positions available across the university including all the colleges to represent the Graduate Student Community to the senior USC leadership.
+
+The role has given me experience making decisions, coordinating across teams, and taking responsibility for processes that affect a large community.
+
 ### 🏏 Cricket & Leadership
 
 I grew up playing competitive cricket and had the opportunity to **captain my team during zonal-level tournaments organized by the Karnataka State Cricket Association (KSCA)**.
@@ -184,18 +198,6 @@ I grew up playing competitive cricket and had the opportunity to **captain my te
 Captaining a team taught me that leadership isn't about being the best individual player. It's about understanding the people around you, making decisions under pressure, adapting when the original plan stops working, and keeping everyone focused on the next decision.
 
 Those lessons still influence how I approach engineering teams and difficult technical problems today.
-
-### 👨‍🏫 Teaching
-
-At **USC Viterbi**, I support students learning Python programming through labs, debugging, problem-solving, office hours, and feedback.
-
-Teaching has made me a better engineer because explaining a concept clearly often requires understanding it at a much deeper level.
-
-### 🏛️ Student Leadership
-
-I serve as **Director of Finance – Internal Approvals** within USC Graduate Student Government, supporting financial processes serving a graduate student community of approximately **26,000+ students**.
-
-The role has given me experience making decisions, coordinating across teams, and taking responsibility for processes that affect a large community.
 
 ---
 
@@ -227,29 +229,23 @@ GPA: **8.71 / 10.0**
 
 ## 📜 Certifications
 
-🏅 **Microsoft Certified: Azure AI Apps and Agents Developer Associate**
+- 🏅 [**Microsoft Certified: Azure AI Apps and Agents Developer Associate**](https://learn.microsoft.com/en-us/users/athishrajmohan-8311/credentials/ee4907c44ff1e433)
+- 🧠 [**DeepLearning.AI  -  Deep Learning Specialization**](https://learn.deeplearning.ai/certificates/474b884a-b50c-48a0-97fc-8be22d320457?usp=sharing)
+- 🤖 [**IBM  -  Generative AI Engineering with LLMs Specialization**](https://coursera.org/share/88d198804c442ca91c0abf6639f5b89e)
+- 🔗 [**IBM  -  Agentic AI with LangChain and LangGraph**](https://coursera.org/share/e07f23602c92b2841f11e4afd4148926)
+- ☁️ **Google Cloud  -  Production ML Systems & Introduction to AI/ML**
+- 💻 **IIT Kharagpur  -  Data Structures & Algorithms** · Elite Certificate & Silver Medal
 
-🧠 **DeepLearning.AI — Deep Learning Specialization**
+<details>
+<summary><b>Additional Certifications & Training</b></summary>
 
-🤖 **IBM — Generative AI Engineering with LLMs**
+<br>
 
-🔗 **IBM — Agentic AI with LangChain and LangGraph**
+- [Pragmatic AI Labs  -  Fine-Tuning Transformers with Hugging Face](https://coursera.org/share/ef711e48bd3992f9e03340b833785e99)
+- [IBM  -  Applied Data Science Specialization](https://coursera.org/share/b05bfddfac6b97056c9db51b41bb0eda)
+- [DeepLearning.AI  -  ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/2210f0e8-a109-408b-bd57-29ad40f74748?usp=sharing)
 
-☁️ **Google Cloud — Production ML Systems & Introduction to AI/ML**
-
-💻 **IIT Kharagpur — Data Structures & Algorithms — Elite Certificate & Silver Medal**
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=athish-raj-mohan&show_icons=true&hide_border=true&rank_icon=github"
-    height="165"
-    alt="Athish's GitHub Stats"
-  />
-</p>
+</details>
 
 ---
 
