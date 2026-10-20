@@ -6,7 +6,7 @@
   <img src="profile.jpeg" width="170" alt="Athish Raj Mohan" />
 </p>
 
-<h1 align="center">Athish Raj Mohan</h1>
+<h1 align="center">ATHISH RAJ MOHAN</h1>
 
 <h3 align="center">
   Software Engineer • AI/ML Systems • Backend & Distributed Systems
