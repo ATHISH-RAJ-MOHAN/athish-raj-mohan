@@ -40,7 +40,7 @@ I'm a **Microsoft Certified: Azure AI Apps and Agents Developer Associate**.
 
 I've worked across the stack - from developing customer-facing production software and REST API integrations to building AI agents, RAG systems, distributed recommendation engines, and GPU-accelerated applications.
 
-Previously, I worked as an **AI/ML Intern at Bio-Rad Laboratories**, where I built and deployed Angular-based analytics dashboards on AWS. Before that, I was an **Associate Software Engineer at Eurofins**, contributing to customer-facing laboratory management software used across **850+ global facilities**.
+Previously, I worked as an **AI/ML Intern at Bio-Rad Laboratories**, where I built AI/ML workflows on AWS. Before that, I was an **Associate Software Engineer at Eurofins**, contributing to customer-facing laboratory management software used across **850+ global facilities**.
 
 Today, I'm especially interested in:
 
