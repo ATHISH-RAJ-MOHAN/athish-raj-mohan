@@ -160,7 +160,7 @@ A scalable recommendation system built on Yelp interaction data using **distribu
 ### 🧬 Bio-Rad Laboratories
 **AI/ML Intern**
 
-Built and deployed **Angular-based, AWS EC2-hosted analytics dashboards** powered by Snowflake data for engineering and quality workflows.
+Built and deployed AI/ML workflows powered by Snowflake data for engineering and quality workflows.
 
 Worked closely with stakeholders to translate requirements and feedback into maintainable production components.
 
@@ -171,7 +171,7 @@ Developed and enhanced **customer-facing laboratory management software used acr
 
 Worked across REST API integrations, SQL performance optimization, production debugging, testing, reliability, and software quality.
 
-Previously completed my apprenticeship at Eurofins, where I developed full-stack applications using **ASP.NET Core, Angular, MSSQL, REST APIs, Azure, and CI/CD**, and received a full-time return offer.
+Previously completed my apprenticeship at Eurofins, where I developed full-stack applications using **ASP.NET Core, Angular, PostgreSQL, React, Java Script, MSSQL, REST APIs, Azure, and CI/CD**, and received a full-time return offer.
 
 ---
 
